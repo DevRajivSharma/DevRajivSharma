@@ -2,22 +2,22 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-devrajiv-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/devrajiv/)
 [![Gmail](https://img.shields.io/badge/Email-rajivdev9372@outlook.com-red?style=flat-square&logo=gmail)](mailto:rajivdev9372@outlook.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=vercel)](https://devrajivsharma.vercel.app/)
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** from India 🇮🇳, specializing in building scalable web applications using **Django** and the **MERN stack (MongoDB, Express, React, Node.js)**. I love transforming complex ideas into simple, beautiful, and intuitive digital experiences.
+I'm a passionate **Full Stack Developer** from India, specializing in building scalable web applications using **Django** and the **MERN stack (MongoDB, Express, React, Node.js)**. I love transforming complex ideas into simple, intuitive digital experiences.
 
 - 🎥 Building a full-featured video-sharing platform with playlists, channel subscriptions, and watch history — inspired by YouTube.
-- 🌱 Currently experimenting with the **MERN stack**, **TailwindCSS** for styling, **React Hook Form** for form handling, and other modern tools to improve app efficiency and developer experience.
-- 🔧 Proficient with **Postman** for API testing, **Git** for version control, and **Docker** for containerizing and deploying applications.
-
+- 🌱 Currently experimenting with the **MERN stack**, **TailwindCSS**, **React Hook Form**, and modern tools to improve performance and developer experience.
+- 🔧 Proficient with **Postman**, **Git**, and **Docker** for development and deployment workflows.
+- 🌐 Portfolio: https://devrajivsharma.vercel.app/
 
 ---
 
 ## 🛠️ Skills & Technologies
-
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux)
@@ -46,7 +46,6 @@ I'm a passionate **Full Stack Developer** from India 🇮🇳, specializing in b
 
 ## 📫 Let's Connect
 
-📧 Email: [rajivdev9372@outlook.com](mailto:rajivdev9372@outlook.com)
-💼 LinkedIn: [linkedin.com/in/devrajiv](https://www.linkedin.com/in/devrajiv/)
-
----
+📧 Email: [rajivdev9372@outlook.com](mailto:rajivdev9372@outlook.com)  
+💼 LinkedIn: [linkedin.com/in/devrajiv](https://www.linkedin.com/in/devrajiv/)  
+🌐 Portfolio: https://devrajivsharma.vercel.app/
