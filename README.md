@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-devrajiv-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/devrajiv/)
 [![Gmail](https://img.shields.io/badge/Email-rajivdev9372@outlook.com-red?style=flat-square&logo=gmail)](mailto:rajivdev9372@outlook.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=vercel)](https://devrajivsharma.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=vercel)](https://www.rajivsharma.online/)
 
 ---
 
@@ -13,7 +13,7 @@ I'm a passionate **Full Stack Developer** from India, specializing in building s
 - 🎥 Building a full-featured video-sharing platform with playlists, channel subscriptions, and watch history — inspired by YouTube.
 - 🌱 Currently experimenting with the **MERN stack**, **TailwindCSS**, **React Hook Form**, and modern tools to improve performance and developer experience.
 - 🔧 Proficient with **Postman**, **Git**, and **Docker** for development and deployment workflows.
-- 🌐 Portfolio: https://devrajivsharma.vercel.app/
+- 🌐 Portfolio: https://www.rajivsharma.online/
 
 ---
 
