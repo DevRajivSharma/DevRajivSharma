@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rajiv Sharma
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-devrajiv-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/devrajiv/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-devrajiv-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/devrajivsharma/)
 [![Gmail](https://img.shields.io/badge/Email-rajivdev9372@outlook.com-red?style=flat-square&logo=gmail)](mailto:rajivdev9372@outlook.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=vercel)](https://www.rajivsharma.online/)
 
@@ -47,5 +47,5 @@ I'm a passionate **Full Stack Developer** from India, specializing in building s
 ## 📫 Let's Connect
 
 📧 Email: [rajivdev9372@outlook.com](mailto:rajivdev9372@outlook.com)  
-💼 LinkedIn: [linkedin.com/in/devrajiv](https://www.linkedin.com/in/devrajiv/)  
+💼 LinkedIn: [linkedin.com/in/devrajiv](https://www.linkedin.com/in/devrajivsharma/)  
 🌐 Portfolio: https://rajivsharma.online/
