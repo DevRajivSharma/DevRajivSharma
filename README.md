@@ -48,4 +48,4 @@ I'm a passionate **Full Stack Developer** from India, specializing in building s
 
 📧 Email: [rajivdev9372@outlook.com](mailto:rajivdev9372@outlook.com)  
 💼 LinkedIn: [linkedin.com/in/devrajiv](https://www.linkedin.com/in/devrajiv/)  
-🌐 Portfolio: https://devrajivsharma.vercel.app/
+🌐 Portfolio: https://rajivsharma.online/
